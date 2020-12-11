@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burn The CPU", "Burn The CPU\Burn The CPU.csproj", "{A455B7FB-4A4B-4481-A00E-328D8E36D17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A455B7FB-4A4B-4481-A00E-328D8E36D17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A455B7FB-4A4B-4481-A00E-328D8E36D17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A455B7FB-4A4B-4481-A00E-328D8E36D17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A455B7FB-4A4B-4481-A00E-328D8E36D17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556A5B5F-4EA4-47A5-B228-22C4A1DDA104}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Edo\Desktop\Burn The CPU\Burn The CPU\bin\Debug\Burn The CPU.exe.config
+C:\Users\Edo\Desktop\Burn The CPU\Burn The CPU\bin\Debug\Burn The CPU.exe
+C:\Users\Edo\Desktop\Burn The CPU\Burn The CPU\bin\Debug\Burn The CPU.pdb
+C:\Users\Edo\Desktop\Burn The CPU\Burn The CPU\obj\Debug\Burn The CPU.csprojAssemblyReference.cache
+C:\Users\Edo\Desktop\Burn The CPU\Burn The CPU\obj\Debug\Burn The CPU.csproj.CoreCompileInputs.cache
+C:\Users\Edo\Desktop\Burn The CPU\Burn The CPU\obj\Debug\Burn The CPU.exe
+C:\Users\Edo\Desktop\Burn The CPU\Burn The CPU\obj\Debug\Burn The CPU.pdb
